@@ -1,0 +1,16 @@
+.product-item{
+  height:25rem ;
+ width: 16.5rem;
+}
+
+.product-img{
+  height:65% ;
+width: 100%;
+display : flex;
+align-items: center;
+justify-content: center;
+}
+.product-img img{
+  height: 100%;
+  object-fit: contain;
+}
